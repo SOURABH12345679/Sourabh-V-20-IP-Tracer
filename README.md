@@ -12,7 +12,7 @@ Follow these steps to set up IP-Tracer on your local machine:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Pranav-V-20/IP-Tracer.git
+   git clone https://github.com/SOURABH12345679/Sourabh-V-20-IP-Tracer.git
    ```
 
 2. Navigate to the project directory:
